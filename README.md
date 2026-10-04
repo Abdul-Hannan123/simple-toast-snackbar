@@ -11,8 +11,8 @@ It displays toast messages at the **bottom-right corner** with different alert t
 - 📍 Appears at the bottom-right corner
 - ⏱ Auto-dismiss after a few seconds
 - 📉 Animated progress line that shrinks with time
-- 🎨 Clean and modern UI
-
+- 🎨 Clean UI
+- ⚡ Lightweight and beginner
 
 ---
 
