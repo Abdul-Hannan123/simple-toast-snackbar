@@ -1,7 +1,7 @@
 # 🍞 Toast Notification System
 
 A simple and responsive **Toast / Snackbar Notification System** built using **HTML, CSS, and JavaScript**.  
-It displays toast messages at the **bottom-right corner** with different alert types and an animated progress bar that shrinks.
+It displays toast messages at the **bottom-right corner** with different alert types and an animated progress bar that shrinks before the toast disappears automatically.
 
 ---
 
