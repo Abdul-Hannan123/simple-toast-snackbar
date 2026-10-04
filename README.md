@@ -31,7 +31,7 @@ It displays toast messages at the **bottom-right corner** with different alert t
 ## 🛠 Technologies Used
 
 - **HTML** – Structure
-- **CSS** – Styling & animations
+- **CSS** – Styling & animation
 - **JavaScript** – Logic & interactivity
 
 ---
