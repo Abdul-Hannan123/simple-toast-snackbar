@@ -23,3 +23,9 @@ A simple and interactive **Toast Notification System** built using **HTML, CSS, 
 - **JavaScript** – Notification logic and timer functionality
 
 ---
+
+## 📸 Screenshots
+
+<img width="1903" height="895" alt="image" src="https://github.com/user-attachments/assets/ecccd812-658c-4553-a804-f418812e9437" />
+
+---
