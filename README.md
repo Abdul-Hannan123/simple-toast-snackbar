@@ -15,3 +15,11 @@ A simple and interactive **Toast Notification System** built using **HTML, CSS, 
 - 🧩 Dynamic toast notification creation
 
 ---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the application
+- **CSS3** – Styling, animations, and layout
+- **JavaScript** – Notification logic and timer functionality
+
+---
