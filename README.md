@@ -1,37 +1,17 @@
-# 🍞 Toast Notification System
+# 🔔 Toast Notification System
 
-A simple and responsive **Toast / Snackbar Notification System** built using **HTML, CSS, and JavaScript**.  
-It displays toast messages at the **bottom-right corner** with different alert types and an animated progress bar that shrinks before the toast disappears automatically.
-
----
+A simple and interactive **Toast Notification System** built using **HTML, CSS, and JavaScript**. This project allows users to display different types of toast notifications such as success, error, and invalid input messages. Each notification automatically disappears after a specific amount of time.
 
 ## 🚀 Features
 
-- ✅ Success, Error, and Invalid notifications
-- 📍 Appears at the bottom-right corner
-- ⏱ Auto-dismiss after a few seconds
-- 📉 Animated progress line that shrinks with time
-- 🎨 Clean and modern UI
-- ⚡ Lightweight and beginner
-
----
-
-## 🖼 Preview
-
-> Click on any button (Success, Error, Invalid) and a toast will appear with the corresponding message and style.
-
----
-
-## 📸 Screenshots
-
-<img width="952" height="448" alt="result" src="https://github.com/user-attachments/assets/a9c820fa-f3aa-489e-8080-1ca8376a4f71" />
-
----
-
-## 🛠 Technologies Used
-
-- **HTML** – Structure
-- **CSS** – Styling & animation
-- **JavaScript** – Logic & interactivity
+- ✅ Success notification
+- ❌ Error notification
+- ⚠️ Invalid input notification
+- ⏱️ Notifications automatically disappear after a set time
+- 🎨 Different styles for different notification types
+- 🔘 Buttons to trigger different notifications
+- 📱 Responsive design
+- ⚡ Built with vanilla JavaScript
+- 🧩 Dynamic toast notification creation
 
 ---
