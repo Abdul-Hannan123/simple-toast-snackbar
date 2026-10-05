@@ -55,3 +55,18 @@ This project was created to practice and improve JavaScript skills, especially:
 - Building interactive user interfaces
 
 ---
+
+## 🔮 Future Improvements
+
+Some possible improvements for this project include:
+
+- 🔔 Add more notification types
+- 🎨 Add customizable notification colors
+- ⏱️ Add a progress bar showing remaining time
+- ❌ Add a close button to manually dismiss notifications
+- 📍 Allow notifications to appear in different positions
+- 🔊 Add notification sound effects
+- 📚 Allow multiple notifications to appear at the same time
+- 🌙 Add dark mode
+
+---
