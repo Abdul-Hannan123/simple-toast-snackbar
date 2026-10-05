@@ -39,3 +39,19 @@ A simple and interactive **Toast Notification System** built using **HTML, CSS, 
 5. After a specific amount of time, the notification automatically disappears.
 
 ---
+
+## 🎯 Purpose of the Project
+
+This project was created to practice and improve JavaScript skills, especially:
+
+- DOM manipulation
+- Event handling
+- Creating elements dynamically
+- Using JavaScript timers
+- setTimeout() functionality
+- Adding and removing CSS classes
+- Creating reusable notification functions
+- Managing different notification types
+- Building interactive user interfaces
+
+---
